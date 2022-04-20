@@ -73,3 +73,7 @@ h3 {
   padding: 1rem;
   color: #ef8172;
 }
+.feature-icons:hover{
+  color: #ff4c68;
+  cursor: pointer;
+}
